@@ -1,13 +1,19 @@
-# Expo Router Example
+## ABOUT
 
-Use [`expo-router`](https://docs.expo.dev/router/introduction/) to build native navigation using files in the `app/` directory.
+Joblap is a platform for software development jobs.
 
-## 🚀 How to use
+# TECHNOLOGIES
 
-```sh
-npx create-expo-app -e with-router
-```
+React native
+Css
+Data from repidapi.com
 
-## 📝 Notes
+## HOW TO START APPLICATION
 
-- [Expo Router: Docs](https://docs.expo.dev/router/introduction/)
+Npm start
+
+## APP DEVELOPED BY
+
+Kingsley Ibe
+email: ndynoahs@gmail.com
+phone : 07036294685

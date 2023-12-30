@@ -8,6 +8,20 @@
       "expo-router"
     ],
     "name": "joblap",
-    "slug": "joblap"
+    "slug": "joblap",
+    "extra": {
+      "router": {
+        "origin": false
+      },
+      "eas": {
+        "projectId": "e33d3733-66c9-4071-92dd-c3534015c4eb"
+      }
+    },
+    "android": {
+      "package": "com.ndynoahs.joblap"
+    },
+    "ios": {
+      "bundleIdentifier": "com.ndynoahs.joblap"
+    }
   }
 }
